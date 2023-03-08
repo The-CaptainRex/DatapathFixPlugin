@@ -31,4 +31,4 @@ using System.Reflection;
 [assembly: RegisterExecutionAction(typeof(LaunchExecutionAction))]
 
 // This is to specify which version of Frosty this is for
-[assembly: AssemblyFileVersion("1.0.6")]
+[assembly: AssemblyFileVersion("1.0.7")]
