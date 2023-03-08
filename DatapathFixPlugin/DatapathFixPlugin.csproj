@@ -27,13 +27,13 @@
 
   <ItemGroup>
     <Reference Include="FrostyControls">
-      <HintPath>D:\Development\repos\Dyvinia\FrostyToolsuite\FrostyModManager\bin\Release\Final\FrostyControls.dll</HintPath>
+      <HintPath>D:\SWBF Mods\Frosty Editor\Alpha 107 GH\FrostyControls.dll</HintPath>
     </Reference>
     <Reference Include="FrostyCore">
-      <HintPath>D:\Development\repos\Dyvinia\FrostyToolsuite\FrostyModManager\bin\Release\Final\FrostyCore.dll</HintPath>
+      <HintPath>D:\SWBF Mods\Frosty Editor\Alpha 107 GH\FrostyCore.dll</HintPath>
     </Reference>
     <Reference Include="FrostySdk">
-      <HintPath>D:\Development\repos\Dyvinia\FrostyToolsuite\FrostyModManager\bin\Release\Final\FrostySdk.dll</HintPath>
+      <HintPath>D:\SWBF Mods\Frosty Editor\Alpha 107 GH\FrostySdk.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
 	<Reference Include="Newtonsoft.Json">
